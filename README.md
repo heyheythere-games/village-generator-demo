@@ -16,7 +16,7 @@ Play the demo of **Procedural Village Generator**, an Unreal Engine plugin by he
 | Look | Mouse | Right stick |
 | Jump | Space | A |
 | Run | Shift, held | Left stick click, held |
-| Use the waystone or the notice board | E | X |
+| Use the waystone, a door or the notice board | E | X |
 | A new village in the next style | N | Menu |
 | Its places and areas | Tab, O | Y |
 | Glints on what you can use | H | D-pad left |
